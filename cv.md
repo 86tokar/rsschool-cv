@@ -13,3 +13,14 @@
 * 3 years of experience in Salesforce CRM Platform
 * ISTQB Certified Tester
 * Strong communication skills, a team player. An easy learner person. Self-organised, do not afraid challenges
+## Technical skills
+* **Testing Types:** Functional Testing, REST API Testing, Database Testing, Compatibility Testing, Exploratory Testing, GUI Testing, Installation Testing
+* **OS platform:** Windows, Android, IOS
+* **Web technologies:** REST Webservices, Json, XML, HTTP, HTML, CSS
+* **REST API Testing tools:** Postman
+* **Bug Tracking Tools:** Jira, GitLab, Trello, TestRail 
+* **Salesforce:** SOQL, Installing Packages, Data Loader, Dashboards and Reports, Communities
+* **Mobile Testing Tools:** Browserstack, TestFlight
+## Education
+* **PSU (Polotsk State University)** Bachelor of Science in Civil Engineering
+* **VSU (Vitebsk State University)** Law Faculty
