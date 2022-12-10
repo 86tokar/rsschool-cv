@@ -24,3 +24,12 @@
 ## Education
 * **PSU (Polotsk State University)** Bachelor of Science in Civil Engineering
 * **VSU (Vitebsk State University)** Law Faculty
+## Code Example
+````
+// the hello world program
+console.log('Hello World');
+````
+## Certificates
+* ![ISTQB Certified Tester Foundation Level](https://prnt.sc/S4eaICbYL3RM)
+## Language
+* **English** - Intermediate (B1)
