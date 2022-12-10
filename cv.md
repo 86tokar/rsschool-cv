@@ -30,6 +30,6 @@
 console.log('Hello World');
 ````
 ## Certificates
-* ![ISTQB Certified Tester Foundation Level](https://prnt.sc/S4eaICbYL3RM)
+* ISTQB Certified Tester Foundation Level
 ## Language
 * **English** - Intermediate (B1)
