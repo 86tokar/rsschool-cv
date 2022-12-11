@@ -1,4 +1,6 @@
 # Aliaksei Tokar
+![](https://github.com/86tokar/rsschool-cv/blob/gh-pages/img/Aliaksei.Tokar.png)
+
 ## Contact information
  * Phone: +375295127912
  * E-mail: 86tokar@gmail.com
