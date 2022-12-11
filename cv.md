@@ -33,6 +33,7 @@ console.log('Hello World');
 ````
 ## Certificates
 * ISTQB Certified Tester Foundation Level
+
 ![](https://github.com/86tokar/rsschool-cv/blob/gh-pages/img/ISTQB%20resized.png)
 ## Language
 * **English** - Intermediate (B1)
