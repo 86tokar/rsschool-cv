@@ -28,8 +28,9 @@
 * **VSU (Vitebsk State University)** Law Faculty
 ## Code Example
 ````
-// the hello world program
-console.log('Hello World');
+function multiply(a, b){
+  a * b
+}
 ````
 ## Certificates
 * ISTQB Certified Tester Foundation Level
