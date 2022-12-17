@@ -1,0 +1,7 @@
+@font-face {
+    font-family: MerriwetherSans;
+     src: url("../assets/fonts/Merriweather_Sans/static/MerriweatherSans-Medium.ttf");
+   }
+   * {
+    box-sizing: border-box;
+  }
