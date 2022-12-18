@@ -1,4 +1,6 @@
 # Aliaksei Tokar
+![](https://github.com/86tokar/rsschool-cv/blob/gh-pages/img/Aliaksei.Tokar%20resized.jpeg)
+
 ## Contact information
  * Phone: +375295127912
  * E-mail: 86tokar@gmail.com
@@ -26,10 +28,13 @@
 * **VSU (Vitebsk State University)** Law Faculty
 ## Code Example
 ````
-// the hello world program
-console.log('Hello World');
+function multiply(a, b){
+  a * b
+}
 ````
 ## Certificates
 * ISTQB Certified Tester Foundation Level
+
+![](https://github.com/86tokar/rsschool-cv/blob/gh-pages/img/ISTQB%20resized.png)
 ## Language
 * **English** - Intermediate (B1)
