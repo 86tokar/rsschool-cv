@@ -12,3 +12,15 @@
 
   .footer{background-color: #dcdcdc;}
   .header{background-color: #dcdcdc;}
+
+  .logo {position: relative;
+  left: 50%}
+
+  .year {position: relative;
+    left: 51%;}
+
+  .github {position: relative;
+    left: 45%;} 
+
+  .course {position: relative;
+    left: 47%;}
