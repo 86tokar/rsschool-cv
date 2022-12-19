@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: MerriwetherSans;
+     src: url("../assets/fonts/Merriweather_Sans/static/MerriweatherSans-Medium.ttf");
+   }
+
+* {
+    box-sizing: border-box;
+  }
+
+  .body {background-image: url(/rsschool-cv/assets/img/embossed-square-white-background_51543-224.webp)}
+
+  .footer{background-color: #dcdcdc;}
+  .header{background-color: #dcdcdc;}
+
+  .logo {position: relative;
+  left: 50%}
+
+  .year {position: relative;
+    left: 51%;}
+
+  .github {position: relative;
+    left: 45%;} 
+
+  .course {position: relative;
+    left: 47%;}
