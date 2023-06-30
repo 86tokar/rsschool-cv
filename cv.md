@@ -1,5 +1,5 @@
 # Aliaksei Tokar #
-![photo](/assets/Aliaksei.Tokar_150x150.png)
+![photo](./Assets/Aliaksei.Tokar_150x150.png)
 ## Contacts ##
 * **Phone:** +37068895309
 * **Email:** 86tokar@gmail.com
@@ -32,8 +32,7 @@ I want to become a better IT specialist. I am an easy learning and hardworking p
 * Polotsk State University (Building engineering)
 * ISTQB
 
-  ![certificate](/assets/Certificate_73077_CTFL2018-BY_Tokar_29_02_2020_Minsk-1%20(1).png)
-* RSSchool Stage 0
+  ![certificate](./Assets/Certificate_73077_CTFL2018-BY_Tokar_29_02_2020_Minsk-1%20(1).png)
 
 ## English level ##
 B1+ (Intermediate). I have had a practice with native speaker from different countries during my previous projects and also i have practice twice a week on iTalki platform 
