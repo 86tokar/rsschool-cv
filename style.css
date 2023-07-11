@@ -25,7 +25,11 @@ body {
 
 /* styles for header */
 .header {
-    border: 1px solid red;
+    border: 1px solid grey;
+    background-color: gray;
+    opacity: 0.9;
+    font-weight: 800;
+    color: black;
 }
 
 .nav-list {
@@ -48,13 +52,20 @@ body {
 /* styles for main */
 
 .main {
-    border: 1px solid red;
+    border: 1px solid grey
 }
 
 
 /* styles for footer */
 .footer {
-    border: 1px solid red;
+    border: 1px solid grey;
+    background-color: gray;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 @media (max-width: 768px) {
